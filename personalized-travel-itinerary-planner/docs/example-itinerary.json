@@ -1,0 +1,252 @@
+{
+  "preferences": {
+    "vibe": "Cultural",
+    "destination": "Jaipur",
+    "start_date": "2026-12-05",
+    "duration_days": 4,
+    "budget": "Moderate",
+    "party": "Couple",
+    "travelers": 2,
+    "pace": "Moderate",
+    "interests": [
+      "History",
+      "Food",
+      "Shopping"
+    ],
+    "budget_cap_inr": 60000,
+    "notes": null,
+    "use_demo": true
+  },
+  "itinerary": {
+    "destination": "Jaipur",
+    "country": "India",
+    "summary": "A 4-day, moderate-paced cultural trip to Jaipur, India, built around History, Food, Shopping on a moderate budget. Rajasthan's Pink City: palaces, hilltop forts, bazaars and traditional crafts in a compact, easy-to-explore city.",
+    "mode": "demo",
+    "currency": {
+      "code": "INR",
+      "approx_inr_per_unit": 1.0
+    },
+    "days": [
+      {
+        "day_number": 1,
+        "date": "2026-12-05",
+        "theme": "Exploring Old City (Pink City)",
+        "area_focus": "Old City (Pink City)",
+        "note": "Moderate pace: a balanced mix of sightseeing and downtime.",
+        "morning": {
+          "title": "Hawa Mahal Facade",
+          "description": "Iconic pink honeycomb facade, best photographed from a rooftop cafe opposite.",
+          "area": "Old City (Pink City)",
+          "category": "culture",
+          "duration": "approx. 1-2 hrs",
+          "estimated_cost_inr": 200,
+          "estimated_cost_local": null
+        },
+        "lunch": {
+          "title": "Lunch: Pyaaz kachori and lassi at a local shop",
+          "description": "A suggested local meal. Choose any well-reviewed local restaurant; no specific venue is verified here.",
+          "area": "Old City (Pink City)",
+          "category": "food",
+          "duration": "approx. 1 hr",
+          "estimated_cost_inr": 150,
+          "estimated_cost_local": null
+        },
+        "afternoon": {
+          "title": "Jantar Mantar Observatory",
+          "description": "UNESCO-listed astronomical instruments from the 1700s.",
+          "area": "Old City (Pink City)",
+          "category": "culture",
+          "duration": "approx. 1-2 hrs",
+          "estimated_cost_inr": 200,
+          "estimated_cost_local": null
+        },
+        "evening": {
+          "title": "Rajasthani Village-Style Dinner & Folk Show",
+          "description": "Dinner with folk music and dance in a themed village setting.",
+          "area": "Old City (Pink City)",
+          "category": "food",
+          "duration": "approx. 2-3 hrs",
+          "estimated_cost_inr": 1500,
+          "estimated_cost_local": null
+        },
+        "day_total_inr": 2050
+      },
+      {
+        "day_number": 2,
+        "date": "2026-12-06",
+        "theme": "Exploring Amer & Nahargarh",
+        "area_focus": "Amer & Nahargarh",
+        "note": "Moderate pace: a balanced mix of sightseeing and downtime.",
+        "morning": {
+          "title": "Nahargarh Fort Viewpoint",
+          "description": "Ridge-top fort with wide city views.",
+          "area": "Amer & Nahargarh",
+          "category": "culture",
+          "duration": "approx. 1-2 hrs",
+          "estimated_cost_inr": 200,
+          "estimated_cost_local": null
+        },
+        "lunch": {
+          "title": "Lunch: Laal maas or a vegetarian alternative",
+          "description": "A suggested local meal. Choose any well-reviewed local restaurant; no specific venue is verified here.",
+          "area": "Amer & Nahargarh",
+          "category": "food",
+          "duration": "approx. 1 hr",
+          "estimated_cost_inr": 600,
+          "estimated_cost_local": null
+        },
+        "afternoon": {
+          "title": "Jaigarh Fort",
+          "description": "Fortress above Amer, known for its large cannon and views.",
+          "area": "Amer & Nahargarh",
+          "category": "culture",
+          "duration": "approx. 1-2 hrs",
+          "estimated_cost_inr": 200,
+          "estimated_cost_local": null
+        },
+        "evening": {
+          "title": "Fort Light-and-Sound Show",
+          "description": "Evening storytelling show at the fort (check the schedule).",
+          "area": "Amer & Nahargarh",
+          "category": "culture",
+          "duration": "approx. 2-3 hrs",
+          "estimated_cost_inr": 300,
+          "estimated_cost_local": null
+        },
+        "day_total_inr": 1300
+      },
+      {
+        "day_number": 3,
+        "date": "2026-12-07",
+        "theme": "Exploring Modern Jaipur & Craft Quarters",
+        "area_focus": "Modern Jaipur & Craft Quarters",
+        "note": "Moderate pace: a balanced mix of sightseeing and downtime.",
+        "morning": {
+          "title": "Block-Printing Workshop",
+          "description": "Hands-on printing session in a craft village near Jaipur.",
+          "area": "Modern Jaipur & Craft Quarters",
+          "category": "shopping",
+          "duration": "approx. 1-2 hrs",
+          "estimated_cost_inr": 800,
+          "estimated_cost_local": null
+        },
+        "lunch": {
+          "title": "Lunch: Ghewar and Rajasthani sweets (seasonal)",
+          "description": "A suggested local meal. Choose any well-reviewed local restaurant; no specific venue is verified here.",
+          "area": "Modern Jaipur & Craft Quarters",
+          "category": "food",
+          "duration": "approx. 1 hr",
+          "estimated_cost_inr": 200,
+          "estimated_cost_local": null
+        },
+        "afternoon": {
+          "title": "Albert Hall Museum",
+          "description": "Indo-Saracenic museum with crafts and artefacts.",
+          "area": "Modern Jaipur & Craft Quarters",
+          "category": "culture",
+          "duration": "approx. 1-2 hrs",
+          "estimated_cost_inr": 150,
+          "estimated_cost_local": null
+        },
+        "evening": {
+          "title": "Cafe-Hopping in C-Scheme",
+          "description": "Modern cafes and lounges in a leafy neighbourhood.",
+          "area": "Modern Jaipur & Craft Quarters",
+          "category": "food",
+          "duration": "approx. 2-3 hrs",
+          "estimated_cost_inr": 800,
+          "estimated_cost_local": null
+        },
+        "day_total_inr": 1950
+      },
+      {
+        "day_number": 4,
+        "date": "2026-12-08",
+        "theme": "Exploring Old City (Pink City)",
+        "area_focus": "Old City (Pink City)",
+        "note": "Moderate pace: a balanced mix of sightseeing and downtime.",
+        "morning": {
+          "title": "City Palace Complex",
+          "description": "Royal palace with museums, courtyards and textile galleries.",
+          "area": "Old City (Pink City)",
+          "category": "culture",
+          "duration": "approx. 1-2 hrs",
+          "estimated_cost_inr": 500,
+          "estimated_cost_local": null
+        },
+        "lunch": {
+          "title": "Lunch: Dal baati churma",
+          "description": "A suggested local meal. Choose any well-reviewed local restaurant; no specific venue is verified here.",
+          "area": "Old City (Pink City)",
+          "category": "food",
+          "duration": "approx. 1 hr",
+          "estimated_cost_inr": 450,
+          "estimated_cost_local": null
+        },
+        "afternoon": {
+          "title": "Hawa Mahal Facade (return visit)",
+          "description": "Iconic pink honeycomb facade, best photographed from a rooftop cafe opposite.",
+          "area": "Old City (Pink City)",
+          "category": "culture",
+          "duration": "approx. 1-2 hrs",
+          "estimated_cost_inr": 200,
+          "estimated_cost_local": null
+        },
+        "evening": {
+          "title": "Old City Bazaar Evening Walk",
+          "description": "Lit-up markets and street snacks.",
+          "area": "Old City (Pink City)",
+          "category": "shopping",
+          "duration": "approx. 2-3 hrs",
+          "estimated_cost_inr": 300,
+          "estimated_cost_local": null
+        },
+        "day_total_inr": 1450
+      }
+    ],
+    "stays": [
+      {
+        "name": "Heritage haveli hotel",
+        "type": "Heritage hotel",
+        "area": "Old City (Pink City)",
+        "price_per_night_inr": 3500,
+        "note": "Restored mansion with traditional decor. Illustrative per-person estimate; not a real booking."
+      },
+      {
+        "name": "Haveli guesthouse or hostel",
+        "type": "Guesthouse / hostel",
+        "area": "Old City (Pink City)",
+        "price_per_night_inr": 1200,
+        "note": "Courtyard-style budget stays, many in the Old City. Illustrative per-person estimate; not a real booking."
+      },
+      {
+        "name": "Palace-style heritage hotel",
+        "type": "Luxury hotel",
+        "area": "Old City (Pink City)",
+        "price_per_night_inr": 14000,
+        "note": "Palace-style stay with gardens and spa. Illustrative per-person estimate; not a real booking."
+      }
+    ],
+    "tips": [
+      "Summer is very hot; start sightseeing early.",
+      "Agree on auto-rickshaw or cab fares before you ride.",
+      "Prices are rough per-person estimates and change with season and demand.",
+      "Costs are scaled for the Moderate tier (demo logic: Budget x0.7, Moderate x1, Luxury x1.8)."
+    ],
+    "budget": {
+      "travelers": 2,
+      "nights": 3,
+      "accommodation_inr": 10500,
+      "food_inr": 3700,
+      "activities_inr": 3050,
+      "transport_misc_inr": 810,
+      "total_per_person_inr": 18060,
+      "total_group_inr": 36120,
+      "cap_inr": 60000,
+      "within_cap": true
+    },
+    "disclaimer": "Demo itinerary: built from a small hand-written dataset, not live travel data. All prices are rough estimates per person in INR. Opening hours, distances, availability and bookings were NOT checked. Verify everything before you travel.",
+    "warnings": [],
+    "generated_at": "2026-10-24T22:48:37+00:00"
+  }
+}
